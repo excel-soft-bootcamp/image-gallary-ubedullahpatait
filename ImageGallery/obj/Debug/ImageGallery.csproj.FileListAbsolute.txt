@@ -1,0 +1,7 @@
+D:\ImageGallery\ImageGallery\obj\Debug\ImageGallery.csproj.AssemblyReference.cache
+D:\ImageGallery\ImageGallery\obj\Debug\ImageGallery.csproj.CoreCompileInputs.cache
+D:\ImageGallery\ImageGallery\bin\Debug\ImageGallery.exe.config
+D:\ImageGallery\ImageGallery\bin\Debug\ImageGallery.exe
+D:\ImageGallery\ImageGallery\bin\Debug\ImageGallery.pdb
+D:\ImageGallery\ImageGallery\obj\Debug\ImageGallery.exe
+D:\ImageGallery\ImageGallery\obj\Debug\ImageGallery.pdb
